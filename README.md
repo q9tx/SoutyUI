@@ -1,6 +1,6 @@
 # 🌀 SoutyUI
 
-**SoutyUI** is a modern, lightweight UI framework for Python built to outperform PyQt5/6 and NiceGUI. It combines simplicity, flexibility, and speed perfect for building both **desktop** and **web-based** interfaces with minimal code.
+**SoutyUI** is a modern, lightweight UI framework for Python built to outperform PyQt5/6 and NiceGUI. It combines simplicity, flexibility, and speed perfect for building both **desktop** and **web based** interfaces with minimal code.
 
 ---
 
